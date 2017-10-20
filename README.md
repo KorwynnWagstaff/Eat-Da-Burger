@@ -12,8 +12,8 @@ Technologies used:
 
 	Back-end: Node.js & Express
 
-![Picture One](./imgs/burger1.jpg "Example")
+![alt text](https://github.com/KorwynnWagstaff/Eat-Da-Burger/tree/master/imgs/burger1.png "Logo Title Text 1")
 
-![Picture One](./imgs/burger2.jpg "Example")
+![Picture Two](./imgs/burger2.jpg "Example")
 
-![Picture One](./imgs/burger3.jpg "Example")
+![Picture Three](./imgs/burger3.jpg "Example")
