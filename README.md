@@ -12,8 +12,8 @@ Technologies used:
 
 	Back-end: Node.js & Express
 
-![Picture One](/imgs/burger1.jpg "Example")
+![Picture One](./imgs/burger1.jpg "Example")
 
-![Picture One](/imgs/burger2.jpg "Example")
+![Picture One](./imgs/burger2.jpg "Example")
 
-![Picture One](/imgs/burger3.jpg "Example")
+![Picture One](./imgs/burger3.jpg "Example")
